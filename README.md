@@ -12,3 +12,6 @@ https://docs.ultralytics.com/usage/cfg/#augmentation-settings
 
 • Implementation of the model on new data
 
+![image alt](https://github.com/diniyrti/YOLO26-Palm-Tree-Detection/blob/main/images/results.png)
+
+![image alt](https://github.com/diniyrti/YOLO26-Palm-Tree-Detection/blob/main/images/sample_inference.jpg)
