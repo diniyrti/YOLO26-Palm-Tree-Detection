@@ -7,23 +7,19 @@ In this project, I developed an end-to-end deep learning pipeline to automatical
 This project demonstrates how Geospatial AI can bridge the gap between satellite data and real-world decision-making.
 
 ⚙️ Workflow in short:
-
-• Image tiling in QGIS (Deepness plugin)
+- Image tiling in QGIS (Deepness plugin)
 https://plugins.qgis.org/plugins/deepness/
-
-• Labeling & dataset prep in Roboflow
+- Labeling & dataset prep in Roboflow
 https://roboflow.com/
-
-• Model training & evaluation (YOLO26m)
+- Model training & evaluation (YOLO26m)
 https://docs.ultralytics.com/models/yolo26/#detection-coco
 https://docs.ultralytics.com/usage/cfg/#augmentation-settings
-
-• Implementation of the model on new data
+- Implementation of the model on new data
 
 📊 Results
 - Stable convergence during training and validation
 - Precision & Recall > 0.85
-- mAP@50 ≈ 0.95
+- mAP@50 > 0.90
 
 These results indicate that the model performs well in detecting palm trees even in complex and dense plantation environments.
 
